@@ -7,6 +7,12 @@
 <br>
 
 
+## Kaggle 02：[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
+* 使用模型：ResNet-50
+* 分析結果：[]()
+<br>
+
+
 ## TensorFlow
 ```
 !pip install tensorflow==2.0.0-alpha0 
