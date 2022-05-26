@@ -2,13 +2,13 @@
 <br>
 
 ## Kaggle 01：[Heart Disease UCI](https://www.kaggle.com/c/heart-disease-uci/data)
-* 使用模型：Support Vector Machine (SVM) Algorithm
+* 使用模型：Support Vector Machine (SVM)
 * 分析結果：[]()
 <br>
 
 
 ## Kaggle 02：[Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
-* 使用模型：ResNet-50
+* 使用模型：Convolutional Neural Network (CNN)
 * 分析結果：[貓狗辨識](https://github.com/sueshow/Comp_Kaggle/blob/main/Kaggle_%E8%B2%93%E7%8B%97%E8%BE%A8%E8%AD%98.ipynb)
 <br>
 
