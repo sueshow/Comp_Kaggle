@@ -13,3 +13,8 @@
 <br>
 
 
+## Kaggle 03：[KKBox's Churn Prediction Challenge](https://www.kaggle.com/c/kkbox-churn-prediction-challenge)
+* 使用模型：
+* 分析結果：[Churn Model]()
+
+
